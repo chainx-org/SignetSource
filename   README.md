@@ -30,8 +30,6 @@ sh start.sh
 
 ## Windows
 
-Download the file
-
 Start up
 
 ~~~sh
