@@ -4,13 +4,13 @@
 
 ### Linux
 
-1. Download the file [start.sh](./Linux/start.sh) 
+1. Open the **terminal** and enter the following command. Download the file [start.sh](./Linux/start.sh) 
 
 ~~~sh
 curl https://raw.githubusercontent.com/chainx-org/threshold_signature_api/main/signet/Linux/start.sh -o start.sh
 ~~~
 
-2. Start up
+2. In **terminal**, start up
 
 ~~~sh
 sh start.sh
@@ -18,13 +18,13 @@ sh start.sh
 
 ### Mac
 
-1. Download the file [start.sh](./Mac/start.sh) 
+1. Open the **terminal** and enter the following command. Download the file [start.sh](./Mac/start.sh) 
 
 ~~~sh
 curl https://raw.githubusercontent.com/chainx-org/threshold_signature_api/main/signet/Mac/start.sh -o start.sh 
 ~~~
 
-2. Start up
+2. In **terminal**,  start up
 
 ~~~sh
 sh start.sh
@@ -38,6 +38,18 @@ sh start.sh
 
 ## generate address
 
-Wait for block synchronization to complete, Click on the receiving tab, where you can generate an address
+1. Click Hide
+
+![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371448323371637144832311.png)
+
+2. Create a wallet and enter a name at will
+
+![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371449521761637144952150.png)
+
+![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371450363381637145036324.png)
+
+2. Click on the **Receive** tab, and create an address
 
 ![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371427101311637142710095.png)
+
+![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371451221131637145122108.png)
