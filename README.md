@@ -53,3 +53,18 @@ sh start.sh
 ![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371427101311637142710095.png)
 
 ![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/16371451221131637145122108.png)
+
+# Backup private key
+
+1. Open console
+
+   ![image-20211119185501439](/Users/daiwei/Library/Application Support/typora-user-images/image-20211119185501439.png)
+
+2. Use your own address to save the private key
+
+   ~~~
+   dumpprivkey tb1q4r770kf8slntw468tye5funyk3wd4a3hvlzfe0
+   ~~~
+
+   ![image-20211119185647263](/Users/daiwei/Library/Application Support/typora-user-images/image-20211119185647263.png)
+
