@@ -10,7 +10,7 @@
 curl https://raw.githubusercontent.com/chainx-org/threshold_signature_api/main/signet/Linux/start.sh -o start.sh
 ~~~
 
-2. In **terminal**, start up
+2. In **terminal**, enter the following command to start up
 
 ~~~sh
 sh start.sh
@@ -24,7 +24,7 @@ sh start.sh
 curl https://raw.githubusercontent.com/chainx-org/threshold_signature_api/main/signet/Mac/start.sh -o start.sh 
 ~~~
 
-2. In **terminal**,  start up
+2. In **terminal**, enter the following command to start up
 
 ~~~sh
 sh start.sh
