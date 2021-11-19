@@ -58,7 +58,7 @@ sh start.sh
 
 1. Open console
 
-   ![image-20211119185501439](/Users/daiwei/Library/Application Support/typora-user-images/image-20211119185501439.png)
+   ![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/1637319676322image-20211119185501439.png)
 
 2. Use your own address to save the private key
 
@@ -66,5 +66,5 @@ sh start.sh
    dumpprivkey tb1q4r770kf8slntw468tye5funyk3wd4a3hvlzfe0
    ~~~
 
-   ![image-20211119185647263](/Users/daiwei/Library/Application Support/typora-user-images/image-20211119185647263.png)
+   ![](https://cdn.jsdelivr.net/gh/AAweidai/PictureBed@master/taproot/1637319721429image-20211119185647263.png)
 
